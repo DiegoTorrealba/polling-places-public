@@ -1,0 +1,36 @@
+---
+title: "Comparing loss of polling location to share of mail voters"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    embed-resources: true
+author: "Akira Kyles and Diego Torrealba"
+date: last-modified
+date-format: "YYYY-MM-DD: HH:MM"
+output: html_document
+editor_options:
+  markdown:
+    wrap: sentence
+---
+
+# 2016 compared to 2024
+
+```{=html}
+<iframe src="total_ppp_&_mail_share_16_24.html" width="100%" height="500px" style="border:none;"></iframe>
+```
+
+
+# 2016 compared to 2020
+
+```{=html}
+<iframe src="total_ppp_&_mail_share_16_20.html" width="100%" height="500px" style="border:none;"></iframe>
+```
+
+
+# 2020 compared to 2024
+
+```{=html}
+<iframe src="total_ppp_&_mail_share_20_24.html" width="100%" height="500px" style="border:none;"></iframe>
+```
+
