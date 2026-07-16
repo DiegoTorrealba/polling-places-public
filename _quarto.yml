@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "UMD HC Polling Places"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - dw-states-eavs.qmd
+      - shelby-eavs.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    df-print: paged
+    code-fold: true
+    code-summary: "Show the code"
+    code-overflow: wrap
+    date: last-modified
+    date-format: "YYYY-MM-DD: HH:MM"
+
+
+

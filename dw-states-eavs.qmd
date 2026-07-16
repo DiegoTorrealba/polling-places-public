@@ -1,0 +1,48 @@
+---
+title: "Democracy Works EAVS and ACS Analysis"
+author: "Akira Kyles and Diego Torrealba"
+date: last-modified
+date-format: "YYYY-MM-DD: HH:MM"
+output: html_document
+editor_options:
+  markdown:
+    wrap: sentence
+execute:
+  warning: false
+---
+
+# Democracy Works EAVS and ACS Analysis
+
+::: {.panel-tabset}
+
+## 2012-2016
+
+```{=html}
+<iframe src="figs/eavs/dw-figs/dw-states-1216-pop-vs-ppp.html" width="100%" height="600px"></iframe>
+```
+
+## 2012-2024
+
+```{=html}
+<iframe src="figs/eavs/dw-figs/dw-states-1224-pop-vs-ppp.html" width="100%" height="600px"></iframe>
+```
+
+## 2016-2020
+
+```{=html}
+<iframe src="figs/eavs/dw-figs/dw-states-1620-pop-vs-ppp.html" width="100%" height="600px"></iframe>
+```
+
+## 2016-2024
+
+```{=html}
+<iframe src="figs/eavs/dw-figs/dw-states-1624-pop-vs-ppp.html" width="100%" height="600px"></iframe>
+```
+
+## 2020-2024
+
+```{=html}
+<iframe src="figs/eavs/dw-figs/dw-states-2024-pop-vs-ppp.html" width="100%" height="600px"></iframe>
+```
+
+:::

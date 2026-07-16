@@ -1,0 +1,19 @@
+---
+title: "Howard Center Polling Places Insights"
+author: "Akira Kyles and Diego Torrealba"
+date: last-modified
+date-format: "YYYY-MM-DD: HH:MM"
+output: html_document
+editor_options:
+  markdown:
+    wrap: sentence
+execute:
+  warning: false
+---
+
+# UMD Howard Center Polling Places Insights
+
+Mainly looks have been into [EAVS](https://www.eac.gov/research-and-data/studies-and-reports) polling places and [ACS](https://www.census.gov/programs-surveys/acs.html) 18+ population percent changes between two selections of states:
+
+- [States we proposed to Democracy Works](dw-states-eavs.qmd)
+- [States and jurisdictions that were covered before Shelby County v. Holder](shelby-eavs.qmd)
